@@ -10,7 +10,7 @@ This repository contains the code that was used to develop the convolutional neu
 
 
 ## Getting started
----
+
 Clone this repository and navigate to it's folder.
 
 ```bash
@@ -38,7 +38,6 @@ pip install -r requirements.txt
 
 
 ## Machine learning workflow
----
 
 The machine learning workflow, from data collection to model training and evaluation, can be followed with these notebooks:
 
@@ -62,7 +61,6 @@ python3 download_model.py
 
 
 ## Streamlit app
----
 
 The app folder contains the source code of a Streamlit web application that let's you easily interact with the model. To launch the app, navigate to the app directory from a terminal and run:
 
